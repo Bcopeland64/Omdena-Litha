@@ -1,4 +1,4 @@
-# Omdena-Litha
+# Omdena-Litha Project
 
 <h1 align="center">Hi 👋, I'm Brandon Copeland</h1>
 <h3 align="center">A passionate Machine Learning Engineer currently transitioning from ESL to the Machine Learning space!</h3>
