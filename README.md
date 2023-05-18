@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bcopeland64@gmail.com**
 
-<p>The following repository features notebooks I created for the Litha Group project for creating a conversational-based chatbot to communicate with users who may be dealing with mental health issues.</p>
+<p>The following repository features notebooks I produced for the Litha Group project in coordination with Omdena for creating a conversational-based chatbot to communicate with users who may be dealing with mental health issues.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
